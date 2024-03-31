@@ -33,11 +33,11 @@ This research seeks to address the following questions:
 
 #### Age 
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Age%20of%20Respondents.png)
 
 #### Employment 
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Employment%20Status%20of%20Respondents.png)
 
 #### Location 
 
