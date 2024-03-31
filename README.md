@@ -69,7 +69,9 @@ The factors driving the use of ride-hailing services in Ghana are:
 
 ![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Knowlege%20awareness.png)
 
-#### References
+## Implication of Study
+Regarding research, the study adds to existing studies and knowledge on the ride-hailing economy by focusing on how factors such as perceived usefulness, destination accessibility, perceived ease of use, safety, and cost influence the intention to use ride-hailing in Ghana. The study deployed a conceptual framework that examines the mediating role of knowledge awareness in propelling the intention to use ride-hailing. By recognizing knowledge awareness as a mediator, the study underscores the relevance of informed choices. This is to say that as riders become more aware of the benefits, safety, and usefulness of ride-hailing, their intention to use these services becomes more rational and well-informed. The study further responds to the research gaps because not many studies have been done academically from a developing economy context. This research therefore provides a good foundation of reference for researchers and teachers who would want to conduct research in the area and also highlights the significance of tech innovation in Information Systems (IS) literature.
+## References
 
 Acheampong, R. A., & Siiba, A. (2020). Modelling the determinants of car-sharing adoption intentions among young adults: The role of attitude, perceived benefits, travel expectations and socio-demographic factors. Transportation, 47(5), 2557-2580.
 
