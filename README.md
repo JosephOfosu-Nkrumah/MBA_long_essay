@@ -29,7 +29,7 @@ This research seeks to address the following questions:
 
 #### Gender
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Gender%20of%20Respondents.png)
 
 #### Age 
 
