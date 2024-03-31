@@ -41,7 +41,7 @@ This research seeks to address the following questions:
 
 #### Location 
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Location%20of%20Respondents.png)
 
 #### Factors driving the use of ride-hailing in Ghana
 
@@ -53,7 +53,7 @@ The factors driving the use of ride-hailing services in Ghana are:
 - Safety (SA) 
 - Cost (CO)
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Driving%20factors%20of%20Ride-hailing%20usage.png)
 
 #### Challenges associated with ride-hailing services in Ghana
 
@@ -63,11 +63,11 @@ The factors driving the use of ride-hailing services in Ghana are:
 - Hostile behaviour of drivers
 - The difficulty of the driver locating the pickup point 
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Challenges%20associated%20with%20the%20use%20of%20ride-hailing%20services.png)
 
 #### knowledge awareness a mediating factor in the use of ride-hailing services in Ghana
 
-#insert picture#
+![](https://github.com/JosephOfosu-Nkrumah/MBA_long_essay/blob/main/Knowlege%20awareness.png)
 
 #### References
 
